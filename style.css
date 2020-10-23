@@ -262,17 +262,6 @@ body {
     .about {
       grid-template-columns: 1fr;
     }
-  
-    
-  
-   #menu-list {
-      display: none;
-    }
-  
-    .menu-btn {
-      display: block;
-    }
-  
     
   }
   
